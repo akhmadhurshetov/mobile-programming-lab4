@@ -1,6 +1,6 @@
 
-// Lab 4 Solutions - Dart Console Programming
-// Student: Akhmad Hurshetov 220122
+// Lab 4
+// Student: Axmad Xurshetov 220122
 // Lab Time: Monday 14:00
 
 // -----------------------------
